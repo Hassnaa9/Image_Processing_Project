@@ -3,6 +3,10 @@
 ## MATLAB Image Processing GUI
 This MATLAB project provides a graphical user interface (GUI) for various image processing functionalities. The GUI allows users to interactively perform different image processing operations without the need for coding.
 
+
+https://github.com/user-attachments/assets/86cb2b64-d82e-4463-889b-57a850cc1097
+
+
 Functionalities
 Direct Mapping
 Zero-Order
